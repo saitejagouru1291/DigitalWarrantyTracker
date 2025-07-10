@@ -1,0 +1,23 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------< [0;36mcom.warrantytracker:digital-warranty-tracker[0;1m >------------[m
+[[1;34mINFO[m] [1mBuilding Digital Warranty Tracker 1.0.0[m
+[[1;34mINFO[m]   from pom.xml
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mclean:3.2.0:clean[m [1m(default-clean)[m @ [36mdigital-warranty-tracker[0;1m ---[m
+[[1;34mINFO[m] Deleting /workspace/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mresources:3.3.1:resources[m [1m(default-resources)[m @ [36mdigital-warranty-tracker[0;1m ---[m
+[[1;34mINFO[m] skip non existing resourceDirectory /workspace/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mcompiler:3.11.0:compile[m [1m(default-compile)[m @ [36mdigital-warranty-tracker[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module! :source
+[[1;34mINFO[m] Compiling 7 source files with javac [debug target 17] to target/classes
+[[1;33mWARNING[m] system modules path not set in conjunction with -source 17
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  1.682 s
+[[1;34mINFO[m] Finished at: 2025-07-10T09:13:11Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m

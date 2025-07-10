@@ -1,0 +1,7 @@
+/workspace/src/main/java/com/warrantytracker/model/Warranty.java
+/workspace/src/main/java/com/warrantytracker/gui/WarrantyTableModel.java
+/workspace/src/main/java/com/warrantytracker/gui/WarrantyTrackerMainFrame.java
+/workspace/src/main/java/com/warrantytracker/ocr/OCRService.java
+/workspace/src/main/java/com/warrantytracker/dao/WarrantyDAO.java
+/workspace/src/main/java/com/warrantytracker/gui/WarrantyFormDialog.java
+/workspace/src/main/java/com/warrantytracker/WarrantyTrackerApp.java
